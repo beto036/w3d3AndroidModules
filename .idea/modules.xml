@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/operaciones/operaciones.iml" filepath="$PROJECT_DIR$/operaciones/operaciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/operdores/operdores.iml" filepath="$PROJECT_DIR$/operdores/operdores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/validaciones/validaciones.iml" filepath="$PROJECT_DIR$/validaciones/validaciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/w3d3AndroidModules.iml" filepath="$PROJECT_DIR$/w3d3AndroidModules.iml" />
+    </modules>
+  </component>
+</project>
